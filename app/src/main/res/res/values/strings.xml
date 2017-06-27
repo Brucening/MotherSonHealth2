@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">母子健康手册</string>
+
+    <!--主界面-->
+    <string name="activity_main_actionbar_content">母子健康手册</string>
+    <string name="activity_main_yunQian_content">孕前篇</string>
+    <string name="activity_main_yunChan_content">孕产篇</string>
+    <string name="activity_main_erTong_content">儿童篇</string>
+    <string name="activity_main_jieZhong_content">接种篇</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
