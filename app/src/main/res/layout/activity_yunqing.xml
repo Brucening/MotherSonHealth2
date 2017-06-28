@@ -326,8 +326,9 @@
                 android:layout_height="wrap_content"
                 android:layout_below="@+id/view_jilu"
                 android:paddingLeft="20sp"
+                android:visibility="invisible"
                 android:orientation="horizontal">
-                <!--基本信息-->
+
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="50dp"
@@ -363,7 +364,7 @@
                 android:id="@+id/linear_jilu"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_below="@+id/view_xinxi"
+                android:layout_below="@+id/view_jilu"
                 android:paddingLeft="20sp"
                 android:orientation="horizontal">
                 <!--备孕爸妈自我记录-->
